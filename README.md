@@ -1,6 +1,6 @@
 # README
 
-520解说镜像导航网站预览地址：https://jxsite.github.io/jxsite/
+镜像导航网站预览地址：https://jxsite.github.io/jxsite/
 
 由于经常需要在不同的电脑不同的浏览器上操作，书签同步就很麻烦，所以想着写个导航页吧。
 
