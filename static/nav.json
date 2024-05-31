@@ -75,7 +75,7 @@
 	}]
 }, {
 	"_id": "yunpan",
-	"classify": "情商课程",
+	"classify": "云盘存储",
 	"icon": "ti-cloud",
 	"sites": [{
 		"name": "文叔叔",
