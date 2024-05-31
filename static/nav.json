@@ -410,12 +410,12 @@
 	}]
 }, {
 	"_id": "blog",
-	"classify": "优秀博客",
+	"classify": "情商课程",
 	"icon": "ti-medall-alt",
 	"sites": [{
 		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
+		"href": "https://vlink.cc/dingdang666",
+		"desc": "小叮当情商课程学习基地，做一个高情商的人！！",
 		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
 	}]
 }]
