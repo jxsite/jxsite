@@ -1,11 +1,11 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "学习系统",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
+		"name": "影楼修图",
+		"href": "https://app.v.tencent.com/cooperation/review/1b7429ef-03c6-4276-ab5d-45f3a32aa3d4/64859a875205520001d3db8d/3W9mNpN4?classId=1496721&ownerType=PERSON",
+		"desc": "修图、精修、美图、人像、摄影等课程",
 		"logo": "static/icons/52pojie.cn.ico"
 	}, {
 		"name": "镜像网站导航",
@@ -75,7 +75,7 @@
 	}]
 }, {
 	"_id": "yunpan",
-	"classify": "云盘储存",
+	"classify": "情商课程",
 	"icon": "ti-cloud",
 	"sites": [{
 		"name": "文叔叔",
