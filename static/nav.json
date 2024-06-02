@@ -78,65 +78,70 @@
 	"classify": "云盘存储",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "文叔叔",
-		"href": "https://www.wenshushu.cn/",
-		"desc": "大文件即时传输，新晋优秀网盘",
-		"logo": "static/icons/wenshushu.cn.ico"
+		"name": "adobe全家桶",
+		"href": "https://pan.baidu.com/s/1a6Bafar1PHB1SVG1QdnHEw?pwd=8888",
+		"desc": "001全家桶安装包",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},  {
-		"name": "微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "腾讯QQ网盘服务",
-		"logo": "static/icons/weiyun.com.ico"
+		"name": "五一模板",
+		"href": "https://pan.baidu.com/s/17WtLK4aG4VoLfFw8AHCTuQ?pwd=8888",
+		"desc": "002五一常用模板",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
-		"logo": "static/icons/jianguoyun.com.ico"
+		"name": "常用字体",
+		"href": "https://pan.baidu.com/s/1zITrTxqjBvG_24hy-SgfBw?pwd=8888",
+		"desc": "003设计师必备字体",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
-		"logo": "static/icons/cowtransfer.com.png"
+		"name": "剪映免费版",
+		"href": "https://pan.baidu.com/s/1eT5_CcE4FvLSmmBVAoTCwQ?pwd=8888",
+		"desc": "004剪映软件VIP解锁版",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "OneDrive",
-		"href": "http://onedrive.com/",
-		"desc": "微软云存储，支持在线Offiec编辑",
-		"logo": "static/icons/onedrive.live.com.ico"
+		"name": "视频号下载",
+		"href": "https://pan.baidu.com/s/1GGaDHfqhhVDOeJMC5j7EhQ?pwd=8888",
+		"desc": "005视频号在线下载",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "DropBox",
-		"href": "https://www.dropbox.com/",
-		"desc": "全球最优秀的在线云存储",
-		"logo": "static/icons/dropbox.com.png"
+		"name": "模糊变清晰软件",
+		"href": "https://pan.baidu.com/s/1pQapJEQUPGxQElKTBmQFjQ?pwd=8888",
+		"desc": "006ai模糊变清晰upscayl",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "GoogleDrive",
-		"href": "https://www.google.com/intl/zh-CN/drive/",
-		"desc": "Google在线云存储服务",
-		"logo": "static/icons/drive.google.com.png"
+		"name": "视频批量剪辑大师",
+		"href": "https://pan.baidu.com/s/1q4QiC-yInB58Qh1bGBnlcQ?pwd=8888",
+		"desc": "007ai全自动剪辑大师",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
-		"logo": "static/icons/icloud.com.png"
+		"name": "ai制作姓氏教程",
+		"href": "https://pan.baidu.com/s/1PYtYAU4SPij9mjB6xkKLOQ?pwd=8888",
+		"desc": "008AI制作姓氏头像",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
-		"logo": "static/icons/firefox.com.svg"
+		"name": "修图破解软件",
+		"href": "https://pan.baidu.com/s/1KhTwrotiW2wzjnZ9-igvjg?pwd=8888",
+		"desc": "009修图软件破解",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
-		"name": "天翼云盘",
-		"href": "https://cloud.189.cn/",
-		"desc": "电信出品的优秀网盘",
-		"logo": "static/icons/189.cn.ico"
+		"name": "DY批量下载软件",
+		"href": "https://pan.baidu.com/s/1V3voimDj94R9-497l5qeaw?pwd=8888",
+		"desc": "010抖音批量下载软件",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
-		"logo": "static/icons/quqi.com.ico"
+		"name": "pdf转多页软件",
+		"href": "https://pan.baidu.com/s/1GhBZrVBeFrzbt8ythqiZnA?pwd=8888",
+		"desc": "011PDF转多页图片软件",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
-		"name": "城通网盘",
-		"href": "https://www.ctfile.com/",
-		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
-		"logo": "static/icons/ctfile.com.png"
+		"name": "CDR版本转换器",
+		"href": "https://pan.baidu.com/s/1RAVfuHY7UpLaID3xsZDlJw?pwd=8888",
+		"desc": "012CDR版本转换器",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
+	},{
+		"name": "电脑投屏软件破解版",
+		"href": "https://pan.baidu.com/s/18ml2TLNhewK-7ZdykQ5DbA?pwd=8888",
+		"desc": "013电脑投屏软件破解版",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}]
 },  { 
 	"_id": "daohang",
