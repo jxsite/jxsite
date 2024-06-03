@@ -197,6 +197,16 @@
 		"href": "https://v.591meta.com/",
 		"desc": "010适合放松心情",
 		"logo": "no-logo"
+	},{
+		"name": "gpt4.0",
+		"href": "https://kimi.moonshot.cn/",
+		"desc": "011人工智能ai对话",
+		"logo": "no-logo"
+	},{
+		"name": "github",
+		"href": "https://github.com/KaiGitHub3131/xdd/edit/master/static/nav.json",
+		"desc": "012github仓库管理",
+		"logo": "no-logo"
 	}]
 }, {
 	"_id": "wangpan",
