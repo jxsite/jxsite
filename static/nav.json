@@ -240,38 +240,38 @@
 	}]
 }, {
 	"_id": "quwei",
-	"classify": "趣味网站",
+	"classify": "学习网站",
 	"icon": "ti-package",
 	"sites": [{
-		"name": "能不能好好说话",
-		"href": "https://lab.magiconch.com/nbnhhsh/",
-		"desc": "分分钟混入00后圈子，rnb（really 牛B）",
+		"name": "PS软件学习",
+		"href": "https://huke88.com/route/ps2018.html?spm_from_id=736974652f696e6465782d6e6577.1.90",
+		"desc": "001PS软件全套学习",
 		"logo": "static/icons/magiconch.com.ico"
 	}, {
-		"name": "煎蛋",
-		"href": "http://jandan.net/",
-		"desc": "世界上没有新鲜事，除了表情包",
-		"logo": "static/icons/jandan.net.ico"
+		"name": "002AI软件学习",
+		"href": "https://huke88.com/route/ai.html?spm_from_id=766964656f2f636f75727365.1.88",
+		"desc": "002AI软件全套学习",
+		"logo": "static/icons/magiconch.com.ico"
 	},{
-		"name": "soogif搜索",
-		"href": "http://soogif.com/",
-		"desc": "Gif动图中文搜索平台",
-		"logo": "static/icons/soogif.com.ico"
+		"name": "pr软件学习",
+		"href": "https://huke88.com/route/pr2020.html?spm_from_id=736974652f696e6465782d6e6577.1.23",
+		"desc": "003PR软件全套学习",
+		"logo": "static/icons/magiconch.com.ico"
 	}, {
-		"name": "小鸡词典",
-		"href": "https://jikipedia.com/",
-		"desc": "全球在线动态GIF图片搜索引擎",
-		"logo": "static/icons/jikipedia.com.png"
+		"name": "ae软件学习",
+		"href": "https://huke88.com/route/ae2020.html?spm_from_id=766964656f2f636f75727365.1.104",
+		"desc": "004AE软件全套学习",
+		"logo": "static/icons/magiconch.com.ico"
 	}, {
-		"name": "肌肉百科",
-		"href": "https://musclewiki.org/",
-		"desc": "选中哪块肌肉就展示对应锻炼方法",
-		"logo": "static/icons/musclewiki.org.ico"
+		"name": "c4d软件学习",
+		"href": "https://huke88.com/route/c4d-r20.html?spm_from_id=736f6674776172652f726f757465.1.83",
+		"desc": "005c4d软件全套学习",
+		"logo": "static/icons/magiconch.com.ico"
 	}, {
-		"name": "imgur",
-		"href": "http://imgur.com/",
-		"desc": "全球免费的图片分享和图床网站",
-		"logo": "static/icons/imgur.com.png"
+		"name": "CDR软件学习",
+		"href": "https://huke88.com/route/cdr2020.html?spm_from_id=736f6674776172652f726f757465.1.85",
+		"desc": "006CDR软件全套学习",
+		"logo": "static/icons/magiconch.com.ico"
 	}]
 },{
 	"_id": "wangluo",
