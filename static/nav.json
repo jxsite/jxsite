@@ -3,75 +3,75 @@
 	"classify": "学习系统",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "影楼修图",
-		"href": "https://app.v.tencent.com/cooperation/review/1b7429ef-03c6-4276-ab5d-45f3a32aa3d4/64859a875205520001d3db8d/3W9mNpN4?classId=1496721&ownerType=PERSON",
-		"desc": "修图、精修、美图、人像、摄影等课程",
+		"name": "大鹏社区",
+		"href": "https://shejishi8.webnode.tw/",
+		"desc": "001修图、精修、美图、人像、摄影等课程",
 		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "虎课网",
+		"href": "https://huke88.com/career/16.html",
+		"desc": "002设计、学习、知识",
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "logo生成器",
+		"href": "https://www.logosc.cn/edit",
+		"desc": "003logo制作",
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "百度",
+		"href": "https://www.baidu.com/",
+		"desc": "004搜索引擎",
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "殁漂遥",
-		"href": "https://www.mpyit.com/",
-		"desc": "分类齐全，不定时修改下载地址获取方式",
-		"logo": "static/icons/mpyit.com.ico"
+		"name": "百度AI图片助手",
+		"href": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=detail&fr=baiduimageedit&hs=0&xthttps=111110&sf=1&fmq=1713767239197_R&pv=&ic=0&nc=1&z=&se=&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=bdaitpzs%E7%99%BE%E5%BA%A6AI%E5%9B%BE%E7%89%87%E5%8A%A9%E6%89%8Bbdaitpzs&oq=%E5%9B%BE%E7%89%87&rsp=-1&lid=15821210705736092971&toolType=0",
+		"desc": "005AI制作扩图",
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "胡萝卜周",
 		"href": "http://www.carrotchou.blog/",
 		"desc": "又一个软件分享'领跑者'",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "软件缘",
 		"href": "https://www.appcgn.com/",
 		"desc": "绿化、汉化软件",
-		"logo": "static/icons/appcgn.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "看雪学院",
 		"href": "https://www.kanxue.com/",
 		"desc": "加密与解密，渗透与反渗透",
-		"logo": "static/icons/kanxue.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "少数派",
 		"href": "https://sspai.com/",
 		"desc": "生产力工具推荐平台（含会员付费阅读制）",
-		"logo": "static/icons/sspai.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "Zdfans",
 		"href": "https://www.zdfans.com/",
 		"desc": "转手之后变得很难看，但还能用",
-		"logo": "static/icons/zdfans.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "小众软件",
 		"href": "https://www.appinn.com/",
 		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
-		"logo": "static/icons/appinn.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "果核剥壳",
 		"href": "https://www.ghpym.com/",
 		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/ghpym.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "异次元软件",
 		"href": "https://www.iplaysoft.com/",
 		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/iplaysoft.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "photopea",
 		"href": "https://www.photopea.com/",
 		"desc": "在线ps，支持绝大多数功能。",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}]
 }, {
 	"_id": "yunpan",
