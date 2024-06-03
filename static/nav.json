@@ -427,6 +427,7 @@
 		"href": "https://www.pexels.com/zh-cn/",
 		"desc": "可商用图片站-支持中文",
 		"logo": "static/icons/pexels.com.ico"
+		
 	}]
 }, {
 	"_id": "blog",
@@ -436,11 +437,11 @@
 		"name": "提高情商",
 		"href": "https://vlink.cc/dingdang666",
 		"desc": "情商课程学习基地，做一个高情商的人！！",
-		"logo": "https://private-user-images.githubusercontent.com/24543434/335779482-71d32101-d329-408e-8c74-bba66f29884d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcyMTk4MjAsIm5iZiI6MTcxNzIxOTUyMCwicGF0aCI6Ii8yNDU0MzQzNC8zMzU3Nzk0ODItNzFkMzIxMDEtZDMyOS00MDhlLThjNzQtYmJhNjZmMjk4ODRkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAxVDA1MjUyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NDEzM2FjZjg2M2IwMWZlZjFlNjJmYjFhOGQwMmFjMzBmOTZhNmFlODVlMTFjMGFiY2IyOTMwYTMxNWFhMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.faHKwNGEqD7jH3H3v7QylNuJ6_uFG1lBBfDqtzruyno"
+		"logo": "https://img01.yzcdn.cn/v2/image/yz_fc.ico"
 	}, {
 		"name": "形象蜕变",
 		"href": "https://app.v.tencent.com/cooperation/review/1b7429ef-03c6-4276-ab5d-45f3a32aa3d4/665a76b292d3b100017e3fdd/4Bk337er?classId=1812327&ownerType=PERSON",
 		"desc": "形象蜕变，做幸福女人！！",
-		"logo": "https://private-user-images.githubusercontent.com/24543434/335779508-1d1179d8-e459-4e81-af68-aae3bd2b7411.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcyMTk4NDQsIm5iZiI6MTcxNzIxOTU0NCwicGF0aCI6Ii8yNDU0MzQzNC8zMzU3Nzk1MDgtMWQxMTc5ZDgtZTQ1OS00ZTgxLWFmNjgtYWFlM2JkMmI3NDExLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAxVDA1MjU0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM1MDE3NWE1ZDRhNjg3MjljZjQwNDYwMDc2N2ZmOTMyMDQyMGI1ZWZmOTA5Y2U4NGRjZDMwNGFlNTc1OTU5ODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vQ4UBPPXa4zuXhLZaBzz3cWrw3DIEZCXJJbTBHM9cec"
+		"logo": "https://img01.yzcdn.cn/v2/image/yz_fc.ico"
 	}]
 }]
