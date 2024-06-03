@@ -148,49 +148,54 @@
 	"classify": "分类导航",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
-		"name": "今日热榜",
-		"href": "https://tophub.today/",
-		"desc": "主流新闻站热点当日集合",
-		"logo": "static/icons/tophub.today.png"
+		"name": "资源设",
+		"href": "https://www.ziyuanshewz.com/",
+		"desc": "001设计资源",
+		"logo": "no-logo"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
-		"logo": "https://hao.uisdc.com/favicon.ico"
+		"name": "知识星球",
+		"href": "https://www.zsxq.com/",
+		"desc": "002知识星球",
+		"logo": "no-logo"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
-		"logo": "static/icons/duoluole.com.png"
+		"name": "璐过素材",
+		"href": "http://www.luguosucai.com/home/material/lists",
+		"desc": "003设计素材",
+		"logo": "no-logo"
 	},{
-		"name": "炫猿导航",
-		"href": "https://oo1.win/",
-		"desc": "一个炫酷的多功能导航站，收录品类丰富",
-		"logo": "static/icons/oo1.win.ico"
+		"name": "腾讯云创",
+		"href": "https://app.v.tencent.com/",
+		"desc": "004腾讯云创无限容量",
+		"logo": "no-logo"
 	},{
-		"name": "kim导航",
-		"href": "https://kim.plopco.com/",
-		"desc": "不罗嗦的导航，可切换国内外版本",
-		"logo": "static/icons/plopco.com.ico"
+		"name": "微信文件传输助手",
+		"href": "https://szfilehelper.weixin.qq.com/",
+		"desc": "005视频号下载",
+		"logo": "no-logo"
 	},{
-		"name": "龙轩导航",
-		"href": "http://ilxdh.com/",
-		"desc": "疯狂影视同属产品，支持登录添加自定义网址",
-		"logo": "static/icons/ilxdh.com.ico"
+		"name": "youtobe",
+		"href": "https://www.youtube.com/",
+		"desc": "006油管学习网站",
+		"logo": "no-logo"
 	},{
-		"name": "设计导航",
-		"href": "http://hao.shejidaren.com/",
-		"desc": "偏向前端与ui的设计师导航站",
-		"logo": "static/icons/shejidaren.com.ico"
+		"name": "配音神器",
+		"href": "https://peiyinshenqi.com/",
+		"desc": "007配音神器 抖音下载",
+		"logo": "no-logo"
 	},{
-		"name": "考拉新媒体导航",
-		"href": "https://www.kaolamedia.com/",
-		"desc": "新媒体行业专业导航",
-		"logo": "static/icons/kaolamedia.com.ico"
+		"name": "AI工具",
+		"href": "https://ai-bot.cn/",
+		"desc": "008AI工具导航",
+		"logo": "no-logo"
 	},{
-		"name": "医学导航",
-		"href": "http://meddir.cn/",
-		"desc": "医学类网站导航",
+		"name": "流量光机场",
+		"href": "https://llgjc.com/#/login",
+		"desc": "009便宜好用的流量机场",
+		"logo": "no-logo"
+	},{
+		"name": "随机看",
+		"href": "https://v.591meta.com/",
+		"desc": "010适合放松心情",
 		"logo": "no-logo"
 	}]
 }, {
