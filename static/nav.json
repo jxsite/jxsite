@@ -48,10 +48,10 @@
 		"desc": "009字体识别",
 		"logo": "https://www.likefont.com/favicon.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
-		"desc": "转手之后变得很难看，但还能用",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"name": "小红书",
+		"href": "https://www.xiaohongshu.com/",
+		"desc": "010年轻人00后基地",
+		"logo": "https://fe-video-qc.xhscdn.com/fe-platform/ed8fe781ce9e16c1bfac2cd962f0721edabe2e49.ico"
 	}, {
 		"name": "小众软件",
 		"href": "https://www.appinn.com/",
@@ -284,7 +284,7 @@
 	"icon": "ti-rocket",
 	"sites": [{
 		"name": "PS精通课",
-		"href": "",
+		"href": "https://app.v.tencent.com/cooperation/review/1b7429ef-03c6-4276-ab5d-45f3a32aa3d4/665ef9512200610001573743/3ZFlYnHU?classId=1814813&ownerType=PERSON",
 		"desc": "001PS精通课 平面设计",
 		"logo": "https://app.v.tencent.com/favicon.ico"
 	}, {
