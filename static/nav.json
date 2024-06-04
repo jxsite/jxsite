@@ -218,10 +218,10 @@
 	"classify": "资源搜索",
 	"icon": "ti-search",
 	"sites": [{
-		"name": "LOOKAO",
-		"href": "https://lookao.com/",
-		"desc": "简单的 不追踪不记录搜索引擎",
-		"logo": "https://www.dashengpan.com/favicon.ico"
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/disk/main#/im/session/",
+		"desc": "001百度网盘资源",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
 		"name": "大力盘",
 		"href": "https://www.dalipan.com/",
