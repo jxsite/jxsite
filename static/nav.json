@@ -1,202 +1,227 @@
 [{
 	"_id": "ruanjian",
-	"classify": "软件·社区",
+	"classify": "学习系统",
 	"icon": "ti-download",
 	"sites": [{
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件安全与病毒分析,逆向、破解、技术",
-		"logo": "static/icons/52pojie.cn.ico"
+		"name": "大鹏社区",
+		"href": "https://shejishi8.webnode.tw/",
+		"desc": "001修图、精修、美图、人像、摄影等课程",
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "镜像网站导航",
-		"href": "http://www.dayanzai.me/",
-		"desc": "镜像网站导航",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "虎课网",
+		"href": "https://huke88.com/career/16.html",
+		"desc": "002设计、学习、知识",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}, {
-		"name": "大眼仔旭",
-		"href": "http://www.dayanzai.me/",
-		"desc": "绿软、汉化软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "logo生成器",
+		"href": "https://www.logosc.cn/edit",
+		"desc": "003logo制作",
+		"logo": "https://www.logosc.cn/img/logo-icons/logosc-new.svg"
 	}, {
-		"name": "520解说",
-		"href": "https://www.youtube.com/@LRH520",
-		"desc": "软件分享",
-		"logo": "static/icons/dayanzai.me.ico"
+		"name": "百度",
+		"href": "https://www.baidu.com/",
+		"desc": "004搜索引擎",
+		"logo": "https://img1.bdstatic.com/static/common/img/icon_8a1e2b4.png"
 	}, {
-		"name": "殁漂遥",
-		"href": "https://www.mpyit.com/",
-		"desc": "分类齐全，不定时修改下载地址获取方式",
-		"logo": "static/icons/mpyit.com.ico"
+		"name": "百度AI图片助手",
+		"href": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=detail&fr=baiduimageedit&hs=0&xthttps=111110&sf=1&fmq=1713767239197_R&pv=&ic=0&nc=1&z=&se=&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=bdaitpzs%E7%99%BE%E5%BA%A6AI%E5%9B%BE%E7%89%87%E5%8A%A9%E6%89%8Bbdaitpzs&oq=%E5%9B%BE%E7%89%87&rsp=-1&lid=15821210705736092971&toolType=0",
+		"desc": "005AI制作扩图",
+		"logo": "https://img1.bdstatic.com/static/common/img/icon_8a1e2b4.png"
 	}, {
-		"name": "胡萝卜周",
-		"href": "http://www.carrotchou.blog/",
-		"desc": "又一个软件分享'领跑者'",
-		"logo": "static/icons/appcgn.com.ico"
+		"name": "微信文件传输助手",
+		"href": "https://filehelper.weixin.qq.com/",
+		"desc": "006视频号下载 插件'",
+		"logo": "https://res.wx.qq.com/t/fed_upload/5b551698-63f4-4f29-b9a2-cc3d6804686b/app-icon-192x192.png"
 	}, {
-		"name": "软件缘",
-		"href": "https://www.appcgn.com/",
-		"desc": "绿化、汉化软件",
-		"logo": "static/icons/appcgn.com.ico"
+		"name": "全家桶软件",
+		"href": "https://www.yuque.com/qcmt/hg31u5/tic7w7vfgppeg5ax?singleDoc",
+		"desc": "0007全家桶全套下载",
+		"logo": "https://mdn.alipayobjects.com/huamei_0prmtq/afts/img/A*PXAJTYXseTsAAAAAAAAAAAAADvuFAQ/original"
 	}, {
-		"name": "看雪学院",
-		"href": "https://www.kanxue.com/",
-		"desc": "加密与解密，渗透与反渗透",
-		"logo": "static/icons/kanxue.com.ico"
+		"name": "网易见外工作台",
+		"href": "https://jianwai.youdao.com/",
+		"desc": "008视频字幕翻译",
+		"logo": "https://jianwai.youdao.com/favicon.ico"
 	}, {
-		"name": "少数派",
-		"href": "https://sspai.com/",
-		"desc": "生产力工具推荐平台（含会员付费阅读制）",
-		"logo": "static/icons/sspai.com.ico"
+		"name": "识字体",
+		"href": "https://www.likefont.com/",
+		"desc": "009字体识别",
+		"logo": "https://www.likefont.com/favicon.ico"
 	}, {
-		"name": "Zdfans",
-		"href": "https://www.zdfans.com/",
-		"desc": "转手之后变得很难看，但还能用",
-		"logo": "static/icons/zdfans.com.ico"
+		"name": "小红书",
+		"href": "https://www.xiaohongshu.com/",
+		"desc": "010年轻人00后基地",
+		"logo": "data:image/png;base64,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"
 	}, {
-		"name": "小众软件",
-		"href": "https://www.appinn.com/",
-		"desc": "分享免费、小巧、实用、有趣、绿色的软件",
-		"logo": "static/icons/appinn.com.ico"
+		"name": "airtable管理",
+		"href": "https://airtable.com/",
+		"desc": "011airtable管理系统",
+		"logo": "https://airtable.com/images/favicon/baymax/apple-touch-icon.png"
 	}, {
-		"name": "果核剥壳",
-		"href": "https://www.ghpym.com/",
-		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/ghpym.com.ico"
+		"name": "网站搭建",
+		"href": https://shejishi8.cms.webnode.tw/",
+		"desc": "012webnode网站搭建",
+		"logo": "https://www.webnode.com/blog/wp-content/uploads/2024/04/Iubenda.png"
 	}, {
 		"name": "异次元软件",
 		"href": "https://www.iplaysoft.com/",
 		"desc": "优秀资源推荐、评测，限免优惠资讯",
-		"logo": "static/icons/iplaysoft.com.ico"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "photopea",
 		"href": "https://www.photopea.com/",
 		"desc": "在线ps，支持绝大多数功能。",
-		"logo": "static/icons/photopea.com.png"
+		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}]
 }, {
 	"_id": "yunpan",
-	"classify": "云盘储存",
+	"classify": "云盘存储",
 	"icon": "ti-cloud",
 	"sites": [{
-		"name": "文叔叔",
-		"href": "https://www.wenshushu.cn/",
-		"desc": "大文件即时传输，新晋优秀网盘",
-		"logo": "static/icons/wenshushu.cn.ico"
+		"name": "adobe全家桶",
+		"href": "https://pan.baidu.com/s/1a6Bafar1PHB1SVG1QdnHEw?pwd=8888",
+		"desc": "001全家桶安装包",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},  {
-		"name": "微云",
-		"href": "https://www.weiyun.com/",
-		"desc": "腾讯QQ网盘服务",
-		"logo": "static/icons/weiyun.com.ico"
+		"name": "五一模板",
+		"href": "https://pan.baidu.com/s/17WtLK4aG4VoLfFw8AHCTuQ?pwd=8888",
+		"desc": "002五一常用模板",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "坚果云",
-		"href": "https://www.jianguoyun.com/",
-		"desc": "小众服务稳定的网盘，支持webdav",
-		"logo": "static/icons/jianguoyun.com.ico"
+		"name": "常用字体",
+		"href": "https://pan.baidu.com/s/1zITrTxqjBvG_24hy-SgfBw?pwd=8888",
+		"desc": "003设计师必备字体",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "奶牛快传",
-		"href": "https://cowtransfer.com/",
-		"desc": "小众服务稳定的网盘",
-		"logo": "static/icons/cowtransfer.com.png"
+		"name": "剪映免费版",
+		"href": "https://pan.baidu.com/s/1eT5_CcE4FvLSmmBVAoTCwQ?pwd=8888",
+		"desc": "004剪映软件VIP解锁版",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "OneDrive",
-		"href": "http://onedrive.com/",
-		"desc": "微软云存储，支持在线Offiec编辑",
-		"logo": "static/icons/onedrive.live.com.ico"
+		"name": "视频号下载",
+		"href": "https://pan.baidu.com/s/1GGaDHfqhhVDOeJMC5j7EhQ?pwd=8888",
+		"desc": "005视频号在线下载",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "DropBox",
-		"href": "https://www.dropbox.com/",
-		"desc": "全球最优秀的在线云存储",
-		"logo": "static/icons/dropbox.com.png"
+		"name": "模糊变清晰软件",
+		"href": "https://pan.baidu.com/s/1pQapJEQUPGxQElKTBmQFjQ?pwd=8888",
+		"desc": "006ai模糊变清晰upscayl",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "GoogleDrive",
-		"href": "https://www.google.com/intl/zh-CN/drive/",
-		"desc": "Google在线云存储服务",
-		"logo": "static/icons/drive.google.com.png"
+		"name": "视频批量剪辑大师",
+		"href": "https://pan.baidu.com/s/1q4QiC-yInB58Qh1bGBnlcQ?pwd=8888",
+		"desc": "007ai全自动剪辑大师",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "iCloud",
-		"href": "https://www.icloud.com/",
-		"desc": "苹果在线存储和云服务",
-		"logo": "static/icons/icloud.com.png"
+		"name": "ai制作姓氏教程",
+		"href": "https://pan.baidu.com/s/1PYtYAU4SPij9mjB6xkKLOQ?pwd=8888",
+		"desc": "008AI制作姓氏头像",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "Firefox Send",
-		"href": "https://send.firefox.com/",
-		"desc": "火狐提供的快传网盘",
-		"logo": "static/icons/firefox.com.svg"
+		"name": "修图破解软件",
+		"href": "https://pan.baidu.com/s/1KhTwrotiW2wzjnZ9-igvjg?pwd=8888",
+		"desc": "009修图软件破解",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
-		"name": "天翼云盘",
-		"href": "https://cloud.189.cn/",
-		"desc": "电信出品的优秀网盘",
-		"logo": "static/icons/189.cn.ico"
+		"name": "DY批量下载软件",
+		"href": "https://pan.baidu.com/s/1V3voimDj94R9-497l5qeaw?pwd=8888",
+		"desc": "010抖音批量下载软件",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
-		"name": "曲奇办公",
-		"href": "https://quqi.com/",
-		"desc": "主打办公群组类网盘",
-		"logo": "static/icons/quqi.com.ico"
+		"name": "pdf转多页软件",
+		"href": "https://pan.baidu.com/s/1GhBZrVBeFrzbt8ythqiZnA?pwd=8888",
+		"desc": "011PDF转多页图片软件",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
-		"name": "城通网盘",
-		"href": "https://www.ctfile.com/",
-		"desc": "页面不算太难看的网赚网盘,度盘替代品之一",
-		"logo": "static/icons/ctfile.com.png"
+		"name": "CDR版本转换器",
+		"href": "https://pan.baidu.com/s/1RAVfuHY7UpLaID3xsZDlJw?pwd=8888",
+		"desc": "012CDR版本转换器",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
+	},{
+		"name": "电脑投屏软件破解版",
+		"href": "https://pan.baidu.com/s/18ml2TLNhewK-7ZdykQ5DbA?pwd=8888",
+		"desc": "013电脑投屏软件破解版",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}]
 },  { 
 	"_id": "daohang",
 	"classify": "分类导航",
 	"icon": "ti-bookmark-alt",
 	"sites": [{
-		"name": "今日热榜",
-		"href": "https://tophub.today/",
-		"desc": "主流新闻站热点当日集合",
-		"logo": "static/icons/tophub.today.png"
+		"name": "资源设",
+		"href": "https://www.ziyuanshewz.com/",
+		"desc": "001设计资源",
+		"logo": "https://www.ziyuanshewz.com/attachment/images/2/2023/05/ND8dxN19Z1CY8B80CY1o8d0Roxx6cG.jpg"
 	},{
-		"name": "优设导航",
-		"href": "https://hao.uisdc.com/",
-		"desc": "一个优秀的设计师导航站",
-		"logo": "https://hao.uisdc.com/favicon.ico"
+		"name": "知识星球",
+		"href": "https://www.zsxq.com/",
+		"desc": "002知识星球",
+		"logo": "https://www.zsxq.com/favicon_32.ico"
 	},{
-		"name": "堕落了",
-		"href": "https://www.duoluole.com/",
-		"desc": "年轻态友好向网址导航",
-		"logo": "static/icons/duoluole.com.png"
+		"name": "璐过素材",
+		"href": "http://www.luguosucai.com/home/material/lists",
+		"desc": "003设计素材",
+		"logo": "http://img.luguosucai.com/0982b0703371b3714dcbc99a05cfe78292e9c8e7.png"
 	},{
-		"name": "炫猿导航",
-		"href": "https://oo1.win/",
-		"desc": "一个炫酷的多功能导航站，收录品类丰富",
-		"logo": "static/icons/oo1.win.ico"
+		"name": "腾讯云创",
+		"href": "https://app.v.tencent.com/",
+		"desc": "004腾讯云创无限容量",
+		"logo": "https://app.v.tencent.com/favicon.ico"
 	},{
-		"name": "kim导航",
-		"href": "https://kim.plopco.com/",
-		"desc": "不罗嗦的导航，可切换国内外版本",
-		"logo": "static/icons/plopco.com.ico"
+		"name": "扩展插件",
+		"href": "https://www.chajianxw.com/",
+		"desc": "005谷歌扩展插件",
+		"logo": "https://www.chajianxw.com/static/favicon.ico"
 	},{
-		"name": "龙轩导航",
-		"href": "http://ilxdh.com/",
-		"desc": "疯狂影视同属产品，支持登录添加自定义网址",
-		"logo": "static/icons/ilxdh.com.ico"
+		"name": "youtobe",
+		"href": "https://www.youtube.com/",
+		"desc": "006油管学习网站",
+		"logo": "https://www.youtube.com/s/desktop/905763c7/img/favicon.ico"
 	},{
-		"name": "设计导航",
-		"href": "http://hao.shejidaren.com/",
-		"desc": "偏向前端与ui的设计师导航站",
-		"logo": "static/icons/shejidaren.com.ico"
+		"name": "配音神器",
+		"href": "https://peiyinshenqi.com/",
+		"desc": "007配音神器 抖音下载",
+		"logo": "https://peiyinshenqi.com/favicon.ico"
 	},{
-		"name": "考拉新媒体导航",
-		"href": "https://www.kaolamedia.com/",
-		"desc": "新媒体行业专业导航",
-		"logo": "static/icons/kaolamedia.com.ico"
-	},{
-		"name": "医学导航",
-		"href": "http://meddir.cn/",
-		"desc": "医学类网站导航",
+		"name": "AI工具",
+		"href": "https://ai-bot.cn/",
+		"desc": "008AI工具导航",
 		"logo": "no-logo"
+	},{
+		"name": "流量光机场",
+		"href": "https://llgjc.com/#/login",
+		"desc": "009便宜好用的流量机场",
+		"logo": "https://llgjc.com/theme/Aurora-main/static/img/rocket2.a37fff7d.svg"
+	},{
+		"name": "随机看",
+		"href": "https://v.591meta.com/",
+		"desc": "010适合放松心情",
+		"logo": "https://www.kuaishou.com/favicon.ico"
+	},{
+		"name": "gpt4.0",
+		"href": "https://kimi.moonshot.cn/",
+		"desc": "011人工智能ai对话",
+		"logo": "https://statics.moonshot.cn/kimi-chat/favicon.ico"
+	},{
+		"name": "github",
+		"href": "https://github.com/KaiGitHub3131/xdd/edit/master/static/nav.json",
+		"desc": "012github仓库管理",
+		"logo": "https://github.com/fluidicon.png"
+	},{
+		"name": "telegram",
+		"href": "https://web.telegram.org/",
+		"desc": "013telegram网址",
+		"logo": "https://web.telegram.org/a/apple-touch-icon.png"
 	}]
 }, {
 	"_id": "wangpan",
 	"classify": "资源搜索",
 	"icon": "ti-search",
 	"sites": [{
-		"name": "LOOKAO",
-		"href": "https://lookao.com/",
-		"desc": "简单的 不追踪不记录搜索引擎",
-		"logo": "https://www.dashengpan.com/favicon.ico"
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/disk/main#/im/session/",
+		"desc": "001百度网盘资源",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	},{
 		"name": "大力盘",
 		"href": "https://www.dalipan.com/",
@@ -220,63 +245,63 @@
 	}]
 }, {
 	"_id": "quwei",
-	"classify": "趣味网站",
+	"classify": "学习网站",
 	"icon": "ti-package",
 	"sites": [{
-		"name": "能不能好好说话",
-		"href": "https://lab.magiconch.com/nbnhhsh/",
-		"desc": "分分钟混入00后圈子，rnb（really 牛B）",
-		"logo": "static/icons/magiconch.com.ico"
+		"name": "PS软件学习",
+		"href": "https://huke88.com/route/ps2018.html?spm_from_id=736974652f696e6465782d6e6577.1.90",
+		"desc": "001PS软件全套学习",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}, {
-		"name": "煎蛋",
-		"href": "http://jandan.net/",
-		"desc": "世界上没有新鲜事，除了表情包",
-		"logo": "static/icons/jandan.net.ico"
+		"name": "002AI软件学习",
+		"href": "https://huke88.com/route/ai.html?spm_from_id=766964656f2f636f75727365.1.88",
+		"desc": "002AI软件全套学习",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	},{
-		"name": "soogif搜索",
-		"href": "http://soogif.com/",
-		"desc": "Gif动图中文搜索平台",
-		"logo": "static/icons/soogif.com.ico"
+		"name": "pr软件学习",
+		"href": "https://huke88.com/route/pr2020.html?spm_from_id=736974652f696e6465782d6e6577.1.23",
+		"desc": "003PR软件全套学习",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}, {
-		"name": "小鸡词典",
-		"href": "https://jikipedia.com/",
-		"desc": "全球在线动态GIF图片搜索引擎",
-		"logo": "static/icons/jikipedia.com.png"
+		"name": "ae软件学习",
+		"href": "https://huke88.com/route/ae2020.html?spm_from_id=766964656f2f636f75727365.1.104",
+		"desc": "004AE软件全套学习",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}, {
-		"name": "肌肉百科",
-		"href": "https://musclewiki.org/",
-		"desc": "选中哪块肌肉就展示对应锻炼方法",
-		"logo": "static/icons/musclewiki.org.ico"
+		"name": "c4d软件学习",
+		"href": "https://huke88.com/route/c4d-r20.html?spm_from_id=736f6674776172652f726f757465.1.83",
+		"desc": "005c4d软件全套学习",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}, {
-		"name": "imgur",
-		"href": "http://imgur.com/",
-		"desc": "全球免费的图片分享和图床网站",
-		"logo": "static/icons/imgur.com.png"
+		"name": "CDR软件学习",
+		"href": "https://huke88.com/route/cdr2020.html?spm_from_id=736f6674776172652f726f757465.1.85",
+		"desc": "006CDR软件全套学习",
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}]
 },{
 	"_id": "wangluo",
-	"classify": "网络工具",
+	"classify": "大鹏社区",
 	"icon": "ti-rocket",
 	"sites": [{
-		"name": "wxpusher",
-		"href": "http://wxpusher.zjiecode.com",
-		"desc": "最简单的get/post方式将消息推送给微信，可配合双卡助手使用",
-		"logo": "no-logo"
+		"name": "PS精通课",
+		"href": "https://app.v.tencent.com/cooperation/review/1b7429ef-03c6-4276-ab5d-45f3a32aa3d4/665ef9512200610001573743/3ZFlYnHU?classId=1814813&ownerType=PERSON",
+		"desc": "001PS精通课 平面设计",
+		"logo": "https://app.v.tencent.com/favicon.ico"
 	}, {
-		"name": "server酱",
-		"href": "https://sc.ftqq.com/3.version",
-		"desc": "一个有着GET接口的可编程消息接收器，服务器监控等推送消息到微信很棒",
-		"logo": "https://sc.ftqq.com/static/image/favlogo.png"
+		"name": "PS精通课素材",
+		"href": "https://pan.baidu.com/s/1pJ1IFSvO92Eue0vV1eghdw?pwd=8888",
+		"desc": "002PS精通课素材",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "Sakura Frp ",
-		"href": "https://www.natfrp.com",
-		"desc": "免费的一键开启frp内网穿透客户端，支持windows和linux",
-		"logo": "https://www.natfrp.com/favicon.ico"
+		"name": "PS提升课",
+		"href": "",
+		"desc": "003PS提升课 平面设计",
+		"logo": "https://app.v.tencent.com/favicon.ico"
 	}, {
-		"name": "十分钟邮箱",
-		"href": "http://mail.bccto.me/",
-		"desc": "创建一个十分钟内可用的临时邮箱。",
-		"logo": "http://mail.bccto.me/static/favicon.ico"
+		"name": "PS提升课素材",
+		"href": "",
+		"desc": "004PS提升课素材",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
 		"name": "码农下载平台",
 		"href": "http://www.umsdn.com/",
@@ -407,15 +432,21 @@
 		"href": "https://www.pexels.com/zh-cn/",
 		"desc": "可商用图片站-支持中文",
 		"logo": "static/icons/pexels.com.ico"
+		
 	}]
 }, {
 	"_id": "blog",
-	"classify": "优秀博客",
+	"classify": "情商课程",
 	"icon": "ti-medall-alt",
 	"sites": [{
-		"name": "Rat's Blog ",
-		"href": "https://www.moerats.com/",
-		"desc": "KMS、VPS、Aria2相关主机与建站技术分享",
-		"logo": "https://www.moerats.com/usr/picture/favicon.ico"
+		"name": "提高情商",
+		"href": "https://vlink.cc/xdd666",
+		"desc": "情商课程学习基地，做一个高情商的人！！",
+		"logo": "https://img01.yzcdn.cn/v2/image/yz_fc.ico"
+	}, {
+		"name": "形象蜕变",
+		"href": "https://app.v.tencent.com/cooperation/review/1b7429ef-03c6-4276-ab5d-45f3a32aa3d4/665a76b292d3b100017e3fdd/4Bk337er?classId=1812327&ownerType=PERSON",
+		"desc": "形象蜕变，做幸福女人！！",
+		"logo": "https://img01.yzcdn.cn/v2/image/yz_fc.ico"
 	}]
 }]
