@@ -168,10 +168,10 @@
 		"desc": "004腾讯云创无限容量",
 		"logo": "https://app.v.tencent.com/favicon.ico"
 	},{
-		"name": "微信文件传输助手",
-		"href": "https://szfilehelper.weixin.qq.com/",
-		"desc": "005视频号下载",
-		"logo": "no-logo"
+		"name": "扩展插件",
+		"href": "https://www.chajianxw.com/",
+		"desc": "005谷歌扩展插件",
+		"logo": "https://www.chajianxw.com/static/favicon.ico"
 	},{
 		"name": "youtobe",
 		"href": "https://www.youtube.com/",
@@ -191,17 +191,17 @@
 		"name": "流量光机场",
 		"href": "https://llgjc.com/#/login",
 		"desc": "009便宜好用的流量机场",
-		"logo": "no-logo"
+		"logo": "https://llgjc.com/theme/Aurora-main/static/img/rocket2.a37fff7d.svg"
 	},{
 		"name": "随机看",
 		"href": "https://v.591meta.com/",
 		"desc": "010适合放松心情",
-		"logo": "no-logo"
+		"logo": "https://www.kuaishou.com/favicon.ico"
 	},{
 		"name": "gpt4.0",
 		"href": "https://kimi.moonshot.cn/",
 		"desc": "011人工智能ai对话",
-		"logo": "no-logo"
+		"logo": "https://statics.moonshot.cn/kimi-chat/favicon.ico"
 	},{
 		"name": "github",
 		"href": "https://github.com/KaiGitHub3131/xdd/edit/master/static/nav.json",
