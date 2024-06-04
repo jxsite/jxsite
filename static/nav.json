@@ -11,27 +11,27 @@
 		"name": "虎课网",
 		"href": "https://huke88.com/career/16.html",
 		"desc": "002设计、学习、知识",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"logo": "https://js.huke88.com/wap/images/avatar.png"
 	}, {
 		"name": "logo生成器",
 		"href": "https://www.logosc.cn/edit",
 		"desc": "003logo制作",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"logo": "https://www.logosc.cn/img/logo-icons/logosc-new.svg"
 	}, {
 		"name": "百度",
 		"href": "https://www.baidu.com/",
 		"desc": "004搜索引擎",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"logo": "https://img1.bdstatic.com/static/common/img/icon_8a1e2b4.png"
 	}, {
 		"name": "百度AI图片助手",
 		"href": "https://image.baidu.com/search/index?tn=baiduimage&ipn=r&ct=201326592&cl=2&lm=-1&st=-1&fm=detail&fr=baiduimageedit&hs=0&xthttps=111110&sf=1&fmq=1713767239197_R&pv=&ic=0&nc=1&z=&se=&showtab=0&fb=0&width=&height=&face=0&istype=2&ie=utf-8&word=bdaitpzs%E7%99%BE%E5%BA%A6AI%E5%9B%BE%E7%89%87%E5%8A%A9%E6%89%8Bbdaitpzs&oq=%E5%9B%BE%E7%89%87&rsp=-1&lid=15821210705736092971&toolType=0",
 		"desc": "005AI制作扩图",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"logo": "https://img1.bdstatic.com/static/common/img/icon_8a1e2b4.png"
 	}, {
 		"name": "微信文件传输助手",
 		"href": "https://filehelper.weixin.qq.com/",
 		"desc": "006视频号下载 插件'",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"logo": "https://res.wx.qq.com/t/fed_upload/5b551698-63f4-4f29-b9a2-cc3d6804686b/app-icon-192x192.png"
 	}, {
 		"name": "全家桶软件",
 		"href": "https://www.yuque.com/qcmt/hg31u5/tic7w7vfgppeg5ax?singleDoc",
@@ -41,7 +41,7 @@
 		"name": "网易见外工作台",
 		"href": "https://jianwai.youdao.com/",
 		"desc": "008视频字幕翻译",
-		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
+		"logo": "https://jianwai.youdao.com/favicon.ico"
 	}, {
 		"name": "识字体",
 		"href": "https://www.likefont.com/",
@@ -151,22 +151,22 @@
 		"name": "资源设",
 		"href": "https://www.ziyuanshewz.com/",
 		"desc": "001设计资源",
-		"logo": "no-logo"
+		"logo": "https://www.ziyuanshewz.com/attachment/images/2/2023/05/ND8dxN19Z1CY8B80CY1o8d0Roxx6cG.jpg"
 	},{
 		"name": "知识星球",
 		"href": "https://www.zsxq.com/",
 		"desc": "002知识星球",
-		"logo": "no-logo"
+		"logo": "https://www.zsxq.com/favicon_32.ico"
 	},{
 		"name": "璐过素材",
 		"href": "http://www.luguosucai.com/home/material/lists",
 		"desc": "003设计素材",
-		"logo": "no-logo"
+		"logo": "http://img.luguosucai.com/0982b0703371b3714dcbc99a05cfe78292e9c8e7.png"
 	},{
 		"name": "腾讯云创",
 		"href": "https://app.v.tencent.com/",
 		"desc": "004腾讯云创无限容量",
-		"logo": "no-logo"
+		"logo": "https://app.v.tencent.com/favicon.ico"
 	},{
 		"name": "微信文件传输助手",
 		"href": "https://szfilehelper.weixin.qq.com/",
@@ -176,12 +176,12 @@
 		"name": "youtobe",
 		"href": "https://www.youtube.com/",
 		"desc": "006油管学习网站",
-		"logo": "no-logo"
+		"logo": "https://www.youtube.com/s/desktop/905763c7/img/favicon.ico"
 	},{
 		"name": "配音神器",
 		"href": "https://peiyinshenqi.com/",
 		"desc": "007配音神器 抖音下载",
-		"logo": "no-logo"
+		"logo": "https://peiyinshenqi.com/favicon.ico"
 	},{
 		"name": "AI工具",
 		"href": "https://ai-bot.cn/",
@@ -206,12 +206,12 @@
 		"name": "github",
 		"href": "https://github.com/KaiGitHub3131/xdd/edit/master/static/nav.json",
 		"desc": "012github仓库管理",
-		"logo": "no-logo"
+		"logo": "https://github.com/fluidicon.png"
 	},{
 		"name": "telegram",
 		"href": "https://web.telegram.org/",
 		"desc": "013telegram网址",
-		"logo": "no-logo"
+		"logo": "https://web.telegram.org/a/apple-touch-icon.png"
 	}]
 }, {
 	"_id": "wangpan",
