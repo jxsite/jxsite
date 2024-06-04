@@ -33,14 +33,14 @@
 		"desc": "006视频号下载 插件'",
 		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "软件缘",
-		"href": "https://www.appcgn.com/",
-		"desc": "绿化、汉化软件",
+		"name": "全家桶软件",
+		"href": "https://www.yuque.com/qcmt/hg31u5/tic7w7vfgppeg5ax?singleDoc",
+		"desc": "0007全家桶全套下载",
 		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
-		"name": "看雪学院",
-		"href": "https://www.kanxue.com/",
-		"desc": "加密与解密，渗透与反渗透",
+		"name": "网易见外工作台",
+		"href": "https://jianwai.youdao.com/",
+		"desc": "008视频字幕翻译",
 		"logo": "https://wx97de7753c2458779.wx.ckjr001.com/i/app-icon72x72@2x.png"
 	}, {
 		"name": "少数派",
@@ -280,28 +280,28 @@
 	}]
 },{
 	"_id": "wangluo",
-	"classify": "网络工具",
+	"classify": "大鹏社区",
 	"icon": "ti-rocket",
 	"sites": [{
-		"name": "wxpusher",
-		"href": "http://wxpusher.zjiecode.com",
-		"desc": "最简单的get/post方式将消息推送给微信，可配合双卡助手使用",
-		"logo": "no-logo"
+		"name": "PS精通课",
+		"href": "",
+		"desc": "001PS精通课 平面设计",
+		"logo": "https://app.v.tencent.com/favicon.ico"
 	}, {
-		"name": "server酱",
-		"href": "https://sc.ftqq.com/3.version",
-		"desc": "一个有着GET接口的可编程消息接收器，服务器监控等推送消息到微信很棒",
-		"logo": "https://sc.ftqq.com/static/image/favlogo.png"
+		"name": "PS精通课素材",
+		"href": "",
+		"desc": "002PS精通课素材",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
-		"name": "Sakura Frp ",
-		"href": "https://www.natfrp.com",
-		"desc": "免费的一键开启frp内网穿透客户端，支持windows和linux",
-		"logo": "https://www.natfrp.com/favicon.ico"
+		"name": "PS提升课",
+		"href": "",
+		"desc": "003PS提升课 平面设计",
+		"logo": "https://app.v.tencent.com/favicon.ico"
 	}, {
-		"name": "十分钟邮箱",
-		"href": "http://mail.bccto.me/",
-		"desc": "创建一个十分钟内可用的临时邮箱。",
-		"logo": "http://mail.bccto.me/static/favicon.ico"
+		"name": "PS提升课素材",
+		"href": "",
+		"desc": "004PS提升课素材",
+		"logo": "https://nd-static.bdstatic.com/m-static/v20-main/favicon-main.ico"
 	}, {
 		"name": "码农下载平台",
 		"href": "http://www.umsdn.com/",
